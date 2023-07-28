@@ -17,5 +17,5 @@ The original code had some errors so it has been refactored to include
 [website image-2](./images/website-image-2.png)
 
 (linK to website URL)
-https://ebox26.github.io/Horiseon-Webpage-Refactor/#search-engine-optimization
+https://ebox26.github.io/Horiseon-Webpage-Refactor/
 
